@@ -22,8 +22,8 @@ AI CLI Tool是一个智能命令行助手，使用DeepSeek AI API为您的日常
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/ai-cli-tool.git
-cd ai-cli-tool
+git clone https://github.com/Smera1d0/AI-Cli-Tool.git
+cd AI-Cli-Tool
 
 # 安装
 pip install .
